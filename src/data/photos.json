@@ -1,0 +1,442 @@
+[
+  {
+    "photo_id": "P001",
+    "stall_id": "W012",
+    "image_path": "/menu-photos/P001-W012.jpg",
+    "batch": 1,
+    "original_upload": "fdc0ec8a-image.png",
+    "description": "Board menu Coffee Pakmali – Coffee and Milk"
+  },
+  {
+    "photo_id": "P002",
+    "stall_id": "W014",
+    "image_path": "/menu-photos/P002-W014.jpg",
+    "batch": 1,
+    "original_upload": "bf608851-image.png",
+    "description": "Kartu Menu Cemilan @kedaipakmali"
+  },
+  {
+    "photo_id": "P003",
+    "stall_id": "W029",
+    "image_path": "/menu-photos/P003-W029.jpg",
+    "batch": 1,
+    "original_upload": "a7ca6535-image.png",
+    "description": "Poster menu Teh Poci Es Teh"
+  },
+  {
+    "photo_id": "P004",
+    "stall_id": "W011",
+    "image_path": "/menu-photos/P004-W011.jpg",
+    "batch": 1,
+    "original_upload": "f230554c-image.png",
+    "description": "Banner Daftar Menu Bubur Ayam Dio"
+  },
+  {
+    "photo_id": "P005",
+    "stall_id": "W019",
+    "image_path": "/menu-photos/P005-W019.jpg",
+    "batch": 1,
+    "original_upload": "293ddfe6-image.png",
+    "description": "Mix Nyong – Cone Series Soft Milk"
+  },
+  {
+    "photo_id": "P006",
+    "stall_id": "W019",
+    "image_path": "/menu-photos/P006-W019.jpg",
+    "batch": 1,
+    "original_upload": "12f9e5b8-image.png",
+    "description": "Mix Nyong – Cone Series Scoop"
+  },
+  {
+    "photo_id": "P007",
+    "stall_id": "W019",
+    "image_path": "/menu-photos/P007-W019.jpg",
+    "batch": 1,
+    "original_upload": "9a5f969d-image.png",
+    "description": "Mix Nyong – Cup Series & Float Series (poster dinding)"
+  },
+  {
+    "photo_id": "P008",
+    "stall_id": "W019",
+    "image_path": "/menu-photos/P008-W019.jpg",
+    "batch": 1,
+    "original_upload": "76692204-image.png",
+    "description": "Mix Nyong – Rasa scoop & Soft Milk (poster dinding)"
+  },
+  {
+    "photo_id": "P009",
+    "stall_id": "W019",
+    "image_path": "/menu-photos/P009-W019.jpg",
+    "batch": 1,
+    "original_upload": "d37edda1-image.png",
+    "description": "Mix Nyong – Ice Cream Scoop, daftar harga & topping"
+  },
+  {
+    "photo_id": "P010",
+    "stall_id": "W019",
+    "image_path": "/menu-photos/P010-W019.jpg",
+    "batch": 1,
+    "original_upload": "38cea6d1-image.png",
+    "description": "Mix Nyong – Float Series (kartu)"
+  },
+  {
+    "photo_id": "P011",
+    "stall_id": "W019",
+    "image_path": "/menu-photos/P011-W019.jpg",
+    "batch": 1,
+    "original_upload": "4f2ab3b2-image.png",
+    "description": "Mix Nyong – Menu Minuman (harga tempelan)"
+  },
+  {
+    "photo_id": "P012",
+    "stall_id": "W019",
+    "image_path": "/menu-photos/P012-W019.jpg",
+    "batch": 1,
+    "original_upload": "36e56edf-image.png",
+    "description": "Mix Nyong – Sundae Series"
+  },
+  {
+    "photo_id": "P013",
+    "stall_id": "W028",
+    "image_path": "/menu-photos/P013-W028.jpg",
+    "batch": 1,
+    "original_upload": "f6e57b24-image.png",
+    "description": "Tampak depan warung Tahu Sumedang"
+  },
+  {
+    "photo_id": "P014",
+    "stall_id": "W030",
+    "image_path": "/menu-photos/P014-W030.jpg",
+    "batch": 1,
+    "original_upload": "95713944-image.png",
+    "description": "Banner Soto Bogor Warcik (menu bernomor 1–4)"
+  },
+  {
+    "photo_id": "P015",
+    "stall_id": "W022",
+    "image_path": "/menu-photos/P015-W022.jpg",
+    "batch": 1,
+    "original_upload": "210d65c5-image.png",
+    "description": "Banner menu Rakus – Raosna Ayam Kukus"
+  },
+  {
+    "photo_id": "P016",
+    "stall_id": "W026",
+    "image_path": "/menu-photos/P016-W026.jpg",
+    "batch": 1,
+    "original_upload": "29a53f79-image.png",
+    "description": "Kartu menu Juice H Ade"
+  },
+  {
+    "photo_id": "P017",
+    "stall_id": "W017",
+    "image_path": "/menu-photos/P017-W017.jpg",
+    "batch": 1,
+    "original_upload": "83d24e18-image.png",
+    "description": "Banner Lutfi Abadi Jaya – Seblak Level Up"
+  },
+  {
+    "photo_id": "P018",
+    "stall_id": "W002",
+    "image_path": "/menu-photos/P018-W002.jpg",
+    "batch": 2,
+    "original_upload": "00ba73bd-image.png",
+    "description": "Banner kuning paket ayam geprek"
+  },
+  {
+    "photo_id": "P019",
+    "stall_id": "W005",
+    "image_path": "/menu-photos/P019-W005.jpg",
+    "batch": 2,
+    "original_upload": "fbc9306e-image.png",
+    "description": "Board menu Bakmi Leugiit Pojokan"
+  },
+  {
+    "photo_id": "P020",
+    "stall_id": "W025",
+    "image_path": "/menu-photos/P020-W025.jpg",
+    "batch": 2,
+    "original_upload": "30ae1bb8-image.png",
+    "description": "Board menu Siomay Bandung reZeki"
+  },
+  {
+    "photo_id": "P021",
+    "stall_id": "W037",
+    "image_path": "/menu-photos/P021-W037.jpg",
+    "batch": 2,
+    "original_upload": "44ef22ce-image.png",
+    "description": "Banner menu Yoshimitsu Japanese Beef Bowl"
+  },
+  {
+    "photo_id": "P022",
+    "stall_id": "W013",
+    "image_path": "/menu-photos/P022-W013.jpg",
+    "batch": 2,
+    "original_upload": "ef14b775-image.png",
+    "description": "Banner menu Jawara (nasi goreng & mie tek-tek)"
+  },
+  {
+    "photo_id": "P023",
+    "stall_id": "W001",
+    "image_path": "/menu-photos/P023-W001.jpg",
+    "batch": 2,
+    "original_upload": "d9463b71-image.png",
+    "description": "Kertas harga Nasi Ayam Geprek + kartu menu"
+  },
+  {
+    "photo_id": "P024",
+    "stall_id": "W018",
+    "image_path": "/menu-photos/P024-W018.jpg",
+    "batch": 2,
+    "original_upload": "ff4e3a8f-image.png",
+    "description": "Kartu menu Nabox Ma Chic Japanese Food"
+  },
+  {
+    "photo_id": "P025",
+    "stall_id": "W004",
+    "image_path": "/menu-photos/P025-W004.jpg",
+    "batch": 2,
+    "original_upload": "abde14f0-image.png",
+    "description": "Board menu Ayam Penyet Ibu Suwarti"
+  },
+  {
+    "photo_id": "P026",
+    "stall_id": "W032",
+    "image_path": "/menu-photos/P026-W032.jpg",
+    "batch": 2,
+    "original_upload": "fc6bd058-image.png",
+    "description": "Poster menu Warung Si Gembul"
+  },
+  {
+    "photo_id": "P027",
+    "stall_id": "W033",
+    "image_path": "/menu-photos/P027-W033.jpg",
+    "batch": 2,
+    "original_upload": "30fe5c56-image.png",
+    "description": "Board Menu Paket (karedok, lotek, soto betawi)"
+  },
+  {
+    "photo_id": "P028",
+    "stall_id": "W035",
+    "image_path": "/menu-photos/P028-W035.jpg",
+    "batch": 2,
+    "original_upload": "6f14f7e5-image.png",
+    "description": "Poster Soto Ayam & Mi Ayam Bakso Panghegar + poster Bakso Hareudang"
+  },
+  {
+    "photo_id": "P029",
+    "stall_id": "W035",
+    "image_path": "/menu-photos/P029-W035.jpg",
+    "batch": 2,
+    "original_upload": "464461f0-image.png",
+    "description": "Poster Ayam Goreng dan Sambel Dadakan"
+  },
+  {
+    "photo_id": "P030",
+    "stall_id": "W035",
+    "image_path": "/menu-photos/P030-W035.jpg",
+    "batch": 2,
+    "original_upload": "10852a6b-image.png",
+    "description": "Banner lauk Warung Nasi Panghegar (Langganan Kost)"
+  },
+  {
+    "photo_id": "P031",
+    "stall_id": "W025",
+    "image_path": "/menu-photos/P031-W025.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-000.jpg)",
+    "description": "Tampak depan Siomay Bandung reZeki"
+  },
+  {
+    "photo_id": "P032",
+    "stall_id": "W025",
+    "image_path": "/menu-photos/P032-W025.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-001.jpg)",
+    "description": "Banner menu Siomay Bandung reZeki (foto kedua, lebih jelas)"
+  },
+  {
+    "photo_id": "P033",
+    "stall_id": "W034",
+    "image_path": "/menu-photos/P033-W034.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-002.jpg)",
+    "description": "Tampak depan Warung Nasi Mandiri"
+  },
+  {
+    "photo_id": "P034",
+    "stall_id": "W034",
+    "image_path": "/menu-photos/P034-W034.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-004.jpg)",
+    "description": "Papan menu Warung Nasi Mandiri + kartu Nasi Soto Medan"
+  },
+  {
+    "photo_id": "P035",
+    "stall_id": "W033",
+    "image_path": "/menu-photos/P035-W033.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-003.jpg)",
+    "description": "Board Menu Paket Bu Darsih (foto kedua)"
+  },
+  {
+    "photo_id": "P036",
+    "stall_id": "W033",
+    "image_path": "/menu-photos/P036-W033.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-006.jpg)",
+    "description": "Tampak depan Warung Nasi Soto Betawi Bu Darsih"
+  },
+  {
+    "photo_id": "P037",
+    "stall_id": "W004",
+    "image_path": "/menu-photos/P037-W004.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-005.jpg)",
+    "description": "Papan menu Ayam Penyet Ibu Suwarti (foto kedua)"
+  },
+  {
+    "photo_id": "P038",
+    "stall_id": "W018",
+    "image_path": "/menu-photos/P038-W018.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-007.jpg)",
+    "description": "Tampak depan Nabox Ma Chic"
+  },
+  {
+    "photo_id": "P039",
+    "stall_id": "W011",
+    "image_path": "/menu-photos/P039-W011.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-008.jpg)",
+    "description": "Tampak depan & daftar menu Bubur Ayam Dio"
+  },
+  {
+    "photo_id": "P040",
+    "stall_id": "W002",
+    "image_path": "/menu-photos/P040-W002.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-009.jpg)",
+    "description": "Tampak depan Geprek Buncit 65 + stiker harga baru"
+  },
+  {
+    "photo_id": "P041",
+    "stall_id": "W010",
+    "image_path": "/menu-photos/P041-W010.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-010.jpg)",
+    "description": "Area pojok dekat Batagor & Siomay Motekar (ada kios kelontong & banner \"Cemasan\")"
+  },
+  {
+    "photo_id": "P042",
+    "stall_id": "W026",
+    "image_path": "/menu-photos/P042-W026.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-011.jpg)",
+    "description": "Tampak depan Sop Buah H. Ade (sebelah Warung Gembul)"
+  },
+  {
+    "photo_id": "P043",
+    "stall_id": "W032",
+    "image_path": "/menu-photos/P043-W032.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-012.jpg)",
+    "description": "Banner menu Warung Gembul"
+  },
+  {
+    "photo_id": "P044",
+    "stall_id": "W022",
+    "image_path": "/menu-photos/P044-W022.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-013.jpg)",
+    "description": "Tampak depan Rakus"
+  },
+  {
+    "photo_id": "P045",
+    "stall_id": "W022",
+    "image_path": "/menu-photos/P045-W022.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-016.jpg)",
+    "description": "Poster menu Rakus (foto kedua)"
+  },
+  {
+    "photo_id": "P046",
+    "stall_id": "W035",
+    "image_path": "/menu-photos/P046-W035.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-014.jpg)",
+    "description": "Tampak depan Warung Nasi Panghegar (sebelah Ayam diGeprekin)"
+  },
+  {
+    "photo_id": "P047",
+    "stall_id": "W001",
+    "image_path": "/menu-photos/P047-W001.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-015.jpg)",
+    "description": "Tampak depan Ayam diGeprekin (sebelah Jawara)"
+  },
+  {
+    "photo_id": "P048",
+    "stall_id": "W013",
+    "image_path": "/menu-photos/P048-W013.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-017.jpg)",
+    "description": "Papan menu Jawara (foto kedua)"
+  },
+  {
+    "photo_id": "P049",
+    "stall_id": "W003",
+    "image_path": "/menu-photos/P049-W003.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-018.jpg)",
+    "description": "Poster menu Ayam Kolgo & Nasi Ayam Sambel Ijo"
+  },
+  {
+    "photo_id": "P050",
+    "stall_id": "W037",
+    "image_path": "/menu-photos/P050-W037.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-019.jpg)",
+    "description": "Tampak depan Yoshimitsu (sebelah Berkah Saluyu)"
+  },
+  {
+    "photo_id": "P051",
+    "stall_id": "W037",
+    "image_path": "/menu-photos/P051-W037.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-020.jpg)",
+    "description": "Banner menu Yoshimitsu (foto kedua)"
+  },
+  {
+    "photo_id": "P052",
+    "stall_id": "W008",
+    "image_path": "/menu-photos/P052-W008.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-021.jpg)",
+    "description": "Tampak depan Berkah Saluyu"
+  },
+  {
+    "photo_id": "P053",
+    "stall_id": "W008",
+    "image_path": "/menu-photos/P053-W008.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-022.jpg)",
+    "description": "Kartu menu Berkah Saluyu"
+  },
+  {
+    "photo_id": "P054",
+    "stall_id": "W030",
+    "image_path": "/menu-photos/P054-W030.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-023.jpg)",
+    "description": "Tampak depan Warcik Soto Bogor (sebelah Sate Taichan Bengawan)"
+  },
+  {
+    "photo_id": "P055",
+    "stall_id": "W024",
+    "image_path": "/menu-photos/P055-W024.jpg",
+    "batch": 3,
+    "original_upload": "Foto_Tenant_Tamansari_Food_Fest.pdf (img-024.jpg)",
+    "description": "Kartu menu Sate Taichan Bengawan"
+  }
+]

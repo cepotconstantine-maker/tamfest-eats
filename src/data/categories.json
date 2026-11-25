@@ -1,0 +1,100 @@
+[
+  {
+    "category_id": "nasi",
+    "name": "Nasi & Lauk",
+    "icon": "🍚",
+    "default_food_type": "Makanan Berat",
+    "menu_count": 25
+  },
+  {
+    "category_id": "ayam",
+    "name": "Ayam",
+    "icon": "🍗",
+    "default_food_type": "Makanan Berat",
+    "menu_count": 74
+  },
+  {
+    "category_id": "mie",
+    "name": "Mie, Bakmi & Bihun",
+    "icon": "🍜",
+    "default_food_type": "Makanan Berat",
+    "menu_count": 33
+  },
+  {
+    "category_id": "berkuah",
+    "name": "Soto, Bakso & Berkuah",
+    "icon": "🍲",
+    "default_food_type": "Makanan Berat",
+    "menu_count": 25
+  },
+  {
+    "category_id": "daging",
+    "name": "Daging Sapi",
+    "icon": "🥩",
+    "default_food_type": "Makanan Berat",
+    "menu_count": 11
+  },
+  {
+    "category_id": "seafood",
+    "name": "Ikan & Seafood",
+    "icon": "🦐",
+    "default_food_type": "Makanan Berat",
+    "menu_count": 23
+  },
+  {
+    "category_id": "sayur",
+    "name": "Sayur, Pecel & Gado-gado",
+    "icon": "🥗",
+    "default_food_type": "Makanan Berat",
+    "menu_count": 11
+  },
+  {
+    "category_id": "camilan",
+    "name": "Camilan & Jajanan",
+    "icon": "🥟",
+    "default_food_type": "Camilan",
+    "menu_count": 16
+  },
+  {
+    "category_id": "roti",
+    "name": "Roti & Pisang Bakar",
+    "icon": "🍞",
+    "default_food_type": "Camilan",
+    "menu_count": 25
+  },
+  {
+    "category_id": "dessert",
+    "name": "Es Krim & Dessert",
+    "icon": "🍦",
+    "default_food_type": "Dessert",
+    "menu_count": 44
+  },
+  {
+    "category_id": "kopi",
+    "name": "Kopi",
+    "icon": "☕",
+    "default_food_type": "Minuman",
+    "menu_count": 28
+  },
+  {
+    "category_id": "minuman",
+    "name": "Minuman Non-Kopi",
+    "icon": "🧋",
+    "default_food_type": "Minuman",
+    "menu_count": 65
+  },
+  {
+    "category_id": "jus",
+    "name": "Jus & Es Buah",
+    "icon": "🥤",
+    "default_food_type": "Minuman",
+    "menu_count": 17
+  },
+  {
+    "category_id": "tambahan",
+    "name": "Topping & Tambahan",
+    "icon": "➕",
+    "default_food_type": "Tambahan",
+    "menu_count": 69
+  }
+]

@@ -1,0 +1,534 @@
+[
+  {
+    "stall_id": "W001",
+    "stall_name": "Ayam di Geprekin",
+    "alternative_names": [
+      "Ayam Digeprekin"
+    ],
+    "description": "Nasi ayam geprek dengan es teh, kriuk, kol, dan lalapan gratis.",
+    "location_zone": "Baris Atas",
+    "booth_number": "A05",
+    "map_x": 0.3065,
+    "map_y": 0.0957,
+    "image_path": "/menu-photos/P047-W001.jpg",
+    "verification_status": "VERIFIED",
+    "notes": "Nama dinormalisasi; ejaan mengikuti denah."
+  },
+  {
+    "stall_id": "W002",
+    "stall_name": "Ayam Geprek Buncit 65",
+    "alternative_names": [
+      "Ayam Geprek Buncit",
+      "Ayam geprek buncit 65",
+      "Geprek Buncit 65"
+    ],
+    "description": "Nasi + ayam geprek Ori (16K) atau Bakar Geprek (17K).",
+    "location_zone": "Baris Tengah",
+    "booth_number": "B07",
+    "map_x": 0.7343,
+    "map_y": 0.5224,
+    "image_path": "/menu-photos/P040-W002.jpg",
+    "verification_status": "VERIFIED",
+    "notes": "Nama dinormalisasi; angka 65 mengikuti denah."
+  },
+  {
+    "stall_id": "W003",
+    "stall_name": "Ayam Kolgo",
+    "alternative_names": [],
+    "description": "Nasi ayam Kolgo dan nasi ayam sambel ijo, paket dengan telur atau tahu tempe.",
+    "location_zone": "Baris Atas",
+    "booth_number": "A03",
+    "map_x": 0.2051,
+    "map_y": 0.0957,
+    "image_path": "/menu-photos/P049-W003.jpg",
+    "verification_status": "VERIFIED",
+    "notes": ""
+  },
+  {
+    "stall_id": "W004",
+    "stall_name": "Ayam Penyet Ibu Suwarti",
+    "alternative_names": [],
+    "description": "Paket nasi ayam penyet, lele, dan pecel. Nasi uduk atau nasi biasa.",
+    "location_zone": "Baris Tengah",
+    "booth_number": "B05",
+    "map_x": 0.5788,
+    "map_y": 0.5224,
+    "image_path": "/menu-photos/P037-W004.jpg",
+    "verification_status": "VERIFIED",
+    "notes": "Belum ada pada daftar nama yang diketik. Batch 3: papan atas warung bertuliskan \"PECEL LELE\" — belum dipastikan apakah W020 \"Nasi Pecel\" adalah warung ini."
+  },
+  {
+    "stall_id": "W005",
+    "stall_name": "Bakmi Leugiit Pojokan",
+    "alternative_names": [
+      "Bakmi Leugiit",
+      "Bakmi Leugit Pojokan"
+    ],
+    "description": "Bakmi dengan pilihan komposisi dan porsi jumbo. Gratis minum sepuasnya.",
+    "location_zone": "Sisi Kiri",
+    "booth_number": "L03",
+    "map_x": 0.0284,
+    "map_y": 0.6524,
+    "image_path": null,
+    "verification_status": "VERIFIED",
+    "notes": "Ejaan mengikuti denah. Ejaan \"Leugiit\" mengikuti board menu warung (batch 2)."
+  },
+  {
+    "stall_id": "W006",
+    "stall_name": "Bakso Hareudang",
+    "alternative_names": [],
+    "description": "Bakso, harga mulai Rp15.000.",
+    "location_zone": "Baris Atas",
+    "booth_number": "A07",
+    "map_x": 0.423,
+    "map_y": 0.0957,
+    "image_path": null,
+    "verification_status": "VERIFIED",
+    "notes": ""
+  },
+  {
+    "stall_id": "W007",
+    "stall_name": "Bebek Stallone",
+    "alternative_names": [
+      "Bebekstallone"
+    ],
+    "description": "",
+    "location_zone": "Baris Tengah",
+    "booth_number": "B08",
+    "map_x": 0.9427,
+    "map_y": 0.5224,
+    "image_path": null,
+    "verification_status": "VERIFIED",
+    "notes": ""
+  },
+  {
+    "stall_id": "W008",
+    "stall_name": "Berkah Saluyu",
+    "alternative_names": [],
+    "description": "Ayam, katsu, popcorn, chicken wings, sapi & bandeng dengan saus cabe garam/mercon/asam manis. Free es teh & nasi daun jeruk.",
+    "location_zone": "Baris Atas",
+    "booth_number": "A01",
+    "map_x": 0.0911,
+    "map_y": 0.0957,
+    "image_path": "/menu-photos/P052-W008.jpg",
+    "verification_status": "VERIFIED",
+    "notes": "Belum ada pada daftar nama yang diketik."
+  },
+  {
+    "stall_id": "W009",
+    "stall_name": "Berasal",
+    "alternative_names": [],
+    "description": "",
+    "location_zone": null,
+    "booth_number": null,
+    "map_x": null,
+    "map_y": null,
+    "image_path": null,
+    "verification_status": "NOT_ON_MAP",
+    "notes": "Belum terlihat pada denah PDF; perlu penempatan."
+  },
+  {
+    "stall_id": "W010",
+    "stall_name": "Batagor Siomay Motekar",
+    "alternative_names": [],
+    "description": "Batagor & siomay, porsi reguler atau pakai telor.",
+    "location_zone": "Baris Atas",
+    "booth_number": "A15",
+    "map_x": 0.8337,
+    "map_y": 0.0957,
+    "image_path": null,
+    "verification_status": "VERIFIED",
+    "notes": "Batch 3: di dekat warung ini terlihat banner \"Cemasan\" dan kios kelontong (P041); identitasnya belum dipastikan."
+  },
+  {
+    "stall_id": "W011",
+    "stall_name": "Bubur Ayam Dio",
+    "alternative_names": [
+      "Bubur ayam Dio"
+    ],
+    "description": "Bubur ayam, nasi goreng, dan aneka Indomie. Halal.",
+    "location_zone": "Baris Atas",
+    "booth_number": "A16",
+    "map_x": 0.8935,
+    "map_y": 0.0957,
+    "image_path": "/menu-photos/P039-W011.jpg",
+    "verification_status": "VERIFIED",
+    "notes": ""
+  },
+  {
+    "stall_id": "W012",
+    "stall_name": "Coffee & Milk",
+    "alternative_names": [
+      "Coffee Pakmali"
+    ],
+    "description": "Kopi, matcha, ice blend, dan yakult shake.",
+    "location_zone": "Sisi Kanan",
+    "booth_number": "R02",
+    "map_x": 0.9815,
+    "map_y": 0.3512,
+    "image_path": null,
+    "verification_status": "VERIFIED",
+    "notes": "Belum ada pada daftar nama yang diketik. Dikonfirmasi warung terpisah dari Kedai Pak Mali (W014); board kopi \"Coffee Pakmali – Coffee and Milk\"."
+  },
+  {
+    "stall_id": "W013",
+    "stall_name": "Jawara",
+    "alternative_names": [],
+    "description": "Nasi goreng aneka rasa dan mie tek-tek. Gratis es teh. Halal.",
+    "location_zone": "Baris Atas",
+    "booth_number": "A04",
+    "map_x": 0.2526,
+    "map_y": 0.0957,
+    "image_path": null,
+    "verification_status": "VERIFIED",
+    "notes": ""
+  },
+  {
+    "stall_id": "W014",
+    "stall_name": "Kedai Pak Mali",
+    "alternative_names": [
+      "Kedai Pakma",
+      "Kedai Pakmali"
+    ],
+    "description": "Pisang bakar, roti bakar, dan lumpia basah.",
+    "location_zone": "Sisi Kanan",
+    "booth_number": "R03",
+    "map_x": 0.9819,
+    "map_y": 0.437,
+    "image_path": null,
+    "verification_status": "VERIFIED",
+    "notes": "Kemungkinan nama yang sama, tetapi perbedaan 'Pakma' dan 'Pak Mali' perlu konfirmasi akhir. Menu cemilan @kedaipakmali. Warung terpisah dari Coffee & Milk (W012)."
+  },
+  {
+    "stall_id": "W015",
+    "stall_name": "Kelontong",
+    "alternative_names": [],
+    "description": "",
+    "location_zone": null,
+    "booth_number": null,
+    "map_x": null,
+    "map_y": null,
+    "image_path": null,
+    "verification_status": "NOT_ON_MAP",
+    "notes": "Satu warung sesuai konfirmasi; lokasi belum teridentifikasi pada denah."
+  },
+  {
+    "stall_id": "W016",
+    "stall_name": "Korean Chicken Spicy BBQ",
+    "alternative_names": [],
+    "description": "",
+    "location_zone": null,
+    "booth_number": null,
+    "map_x": null,
+    "map_y": null,
+    "image_path": null,
+    "verification_status": "NOT_ON_MAP",
+    "notes": "Belum terlihat pada denah PDF; perlu penempatan."
+  },
+  {
+    "stall_id": "W017",
+    "stall_name": "Luthfi Abadi Jaya",
+    "alternative_names": [
+      "Lutfi Abadi Jaya",
+      "Lutfia Abadi Jaya",
+      "Seblak Level Up"
+    ],
+    "description": "Seblak Level Up dengan level pedas Mild sampai Extra Hot.",
+    "location_zone": "Baris Atas",
+    "booth_number": "A13",
+    "map_x": 0.7266,
+    "map_y": 0.0957,
+    "image_path": null,
+    "verification_status": "NEEDS_VERIFICATION",
+    "notes": "Nama dinormalisasi mengikuti denah. Banner menulis \"LUTFI ABADI JAYA – Seblak Level Up\"; denah menulis \"Luthfi\". Ejaan resmi perlu konfirmasi."
+  },
+  {
+    "stall_id": "W018",
+    "stall_name": "Nabox Ma Chic",
+    "alternative_names": [
+      "Ma Chic"
+    ],
+    "description": "Japanese food: ayam, cumi, tuna, udang crispy + nasi dengan aneka saus.",
+    "location_zone": "Baris Tengah",
+    "booth_number": "B06",
+    "map_x": 0.6445,
+    "map_y": 0.5224,
+    "image_path": "/menu-photos/P038-W018.jpg",
+    "verification_status": "VERIFIED",
+    "notes": "Daftar pengguna menulis 'Nabox Ma Chic'; perlu konfirmasi apakah 'Nabox' bagian dari nama resmi. Board menu mengonfirmasi nama \"Nabox Ma Chic\" (Japanese Food)."
+  },
+  {
+    "stall_id": "W019",
+    "stall_name": "Mix Nyong",
+    "alternative_names": [
+      "Mix nyong",
+      "Mixnyong"
+    ],
+    "description": "Ice cream soft milk, scoop, sundae, dan aneka float.",
+    "location_zone": "Baris Atas",
+    "booth_number": "A17",
+    "map_x": 0.9427,
+    "map_y": 0.0957,
+    "image_path": null,
+    "verification_status": "VERIFIED",
+    "notes": ""
+  },
+  {
+    "stall_id": "W020",
+    "stall_name": "Nasi Pecel",
+    "alternative_names": [],
+    "description": "",
+    "location_zone": null,
+    "booth_number": null,
+    "map_x": null,
+    "map_y": null,
+    "image_path": null,
+    "verification_status": "NOT_ON_MAP",
+    "notes": "Belum terlihat pada denah PDF; perlu penempatan."
+  },
+  {
+    "stall_id": "W021",
+    "stall_name": "Nasi Soto Medan",
+    "alternative_names": [],
+    "description": "",
+    "location_zone": null,
+    "booth_number": null,
+    "map_x": null,
+    "map_y": null,
+    "image_path": null,
+    "verification_status": "MERGED",
+    "notes": "Belum terlihat pada denah PDF; perlu penempatan. Warcik Soto Bogor (W030) juga menjual Soto Medan; belum dipastikan apakah W021 warung yang sama. Batch 3: digabung ke W034 (Warung Nasi Mandiri). ID dipertahankan sebagai riwayat.",
+    "merged_into": "W034"
+  },
+  {
+    "stall_id": "W022",
+    "stall_name": "Rakus",
+    "alternative_names": [],
+    "description": "Raosna Ayam Kukus: katsu, crunch, dan menu Best Deal dengan broccoli crispy.",
+    "location_zone": "Baris Atas",
+    "booth_number": "A08",
+    "map_x": 0.4941,
+    "map_y": 0.0957,
+    "image_path": "/menu-photos/P044-W022.jpg",
+    "verification_status": "VERIFIED",
+    "notes": ""
+  },
+  {
+    "stall_id": "W023",
+    "stall_name": "Roti Bakar",
+    "alternative_names": [],
+    "description": "",
+    "location_zone": "Baris Atas",
+    "booth_number": "A09",
+    "map_x": 0.5534,
+    "map_y": 0.0957,
+    "image_path": null,
+    "verification_status": "VERIFIED",
+    "notes": "Batch 3: banner di sebelah kanan Rakus menampilkan mie & dimsum (bukan roti bakar). Perlu dicek apakah warung di posisi ini sudah berganti."
+  },
+  {
+    "stall_id": "W024",
+    "stall_name": "Sate Taichan Bengawan",
+    "alternative_names": [
+      "Sate Taucha"
+    ],
+    "description": "Sate taichan dada, kulit, paha, usus, dan bakso. Porsi kecil atau 10 tusuk.",
+    "location_zone": "Sisi Kiri",
+    "booth_number": "L01",
+    "map_x": 0.0285,
+    "map_y": 0.3111,
+    "image_path": null,
+    "verification_status": "VERIFIED",
+    "notes": "Nama dinormalisasi mengikuti denah; 'Taucha' diasumsikan salah ketik dari Taichan."
+  },
+  {
+    "stall_id": "W025",
+    "stall_name": "Siomay Bandung Rezeki",
+    "alternative_names": [
+      "Siomay Bandung reZeki"
+    ],
+    "description": "Siomay, batagor, bakso cuanki, dan Indomie khas Bandung.",
+    "location_zone": "Baris Tengah",
+    "booth_number": "B01",
+    "map_x": 0.0911,
+    "map_y": 0.5224,
+    "image_path": "/menu-photos/P031-W025.jpg",
+    "verification_status": "VERIFIED",
+    "notes": ""
+  },
+  {
+    "stall_id": "W026",
+    "stall_name": "Sop Buah H. Ade",
+    "alternative_names": [
+      "Juice H Ade",
+      "Sop Buah H.Ade",
+      "Sopbuah h Ade"
+    ],
+    "description": "Aneka jus buah, es campur, dan sop buah.",
+    "location_zone": "Baris Atas",
+    "booth_number": "A11",
+    "map_x": 0.6447,
+    "map_y": 0.0957,
+    "image_path": "/menu-photos/P042-W026.jpg",
+    "verification_status": "VERIFIED",
+    "notes": "Kartu menu bertuliskan \"Juice H Ade\"."
+  },
+  {
+    "stall_id": "W027",
+    "stall_name": "Soto Betawi",
+    "alternative_names": [],
+    "description": "",
+    "location_zone": null,
+    "booth_number": null,
+    "map_x": null,
+    "map_y": null,
+    "image_path": null,
+    "verification_status": "MERGED",
+    "notes": "Belum terlihat pada denah PDF; perlu penempatan. Warung Nasi Betawi Bu Darsih (W033) menjual Soto Betawi; belum dipastikan apakah W027 warung yang sama. Batch 3: digabung ke W033 (Warung Nasi Betawi Bu Darsih). ID dipertahankan sebagai riwayat.",
+    "merged_into": "W033"
+  },
+  {
+    "stall_id": "W028",
+    "stall_name": "Tahu Sumedang",
+    "alternative_names": [],
+    "description": "Tahu Sumedang dan lontong, harga per pcs.",
+    "location_zone": "Baris Atas",
+    "booth_number": "A14",
+    "map_x": 0.7761,
+    "map_y": 0.0957,
+    "image_path": "/menu-photos/P013-W028.jpg",
+    "verification_status": "VERIFIED",
+    "notes": ""
+  },
+  {
+    "stall_id": "W029",
+    "stall_name": "Teh Poci",
+    "alternative_names": [
+      "Teh poci"
+    ],
+    "description": "Aneka es teh rasa: jasmine, thai, lychee, matcha, dan lainnya.",
+    "location_zone": "Sisi Kanan",
+    "booth_number": "R01",
+    "map_x": 0.9811,
+    "map_y": 0.2651,
+    "image_path": null,
+    "verification_status": "VERIFIED",
+    "notes": ""
+  },
+  {
+    "stall_id": "W030",
+    "stall_name": "Warcik Soto Bogor",
+    "alternative_names": [],
+    "description": "Soto Bogor, Soto Medan, ayam penyet, dan ayam geprek.",
+    "location_zone": "Sisi Kiri",
+    "booth_number": "L02",
+    "map_x": 0.0285,
+    "map_y": 0.4817,
+    "image_path": "/menu-photos/P054-W030.jpg",
+    "verification_status": "VERIFIED",
+    "notes": ""
+  },
+  {
+    "stall_id": "W031",
+    "stall_name": "Warung Djarum Super",
+    "alternative_names": [],
+    "description": "",
+    "location_zone": "Baris Tengah",
+    "booth_number": "B02",
+    "map_x": 0.1561,
+    "map_y": 0.5224,
+    "image_path": null,
+    "verification_status": "MAP_ONLY",
+    "notes": "Belum ada pada daftar nama yang diketik."
+  },
+  {
+    "stall_id": "W032",
+    "stall_name": "Warung Gembul",
+    "alternative_names": [
+      "Warung Si Gembul"
+    ],
+    "description": "Nasi ayam sereh, baby cumi, crispy gulai, dan kare.",
+    "location_zone": "Baris Atas",
+    "booth_number": "A10",
+    "map_x": 0.5965,
+    "map_y": 0.0957,
+    "image_path": null,
+    "verification_status": "VERIFIED",
+    "notes": "Poster menu bertuliskan \"Warung Si Gembul\"."
+  },
+  {
+    "stall_id": "W033",
+    "stall_name": "Warung Nasi Betawi Bu Darsih",
+    "alternative_names": [
+      "Soto Betawi",
+      "Warung Makan Ibu Darsih",
+      "Warung Nasi Soto Betawi Bu Darsih"
+    ],
+    "description": "Karedok, lotek, gado-gado, ketoprak, rawon, dan soto Betawi.",
+    "location_zone": "Baris Tengah",
+    "booth_number": "B04",
+    "map_x": 0.4942,
+    "map_y": 0.5224,
+    "image_path": "/menu-photos/P036-W033.jpg",
+    "verification_status": "VERIFIED",
+    "notes": "Belum ada pada daftar nama yang diketik. Batch 3: W027 \"Soto Betawi\" digabung ke warung ini (dikonfirmasi pemilik proyek)."
+  },
+  {
+    "stall_id": "W034",
+    "stall_name": "Warung Nasi Mandiri",
+    "alternative_names": [
+      "Nasi Soto Medan"
+    ],
+    "description": "Nasi sayur aneka lauk, ayam geprek & penyet sambel ijo/merah, dan Nasi Soto Medan.",
+    "location_zone": "Baris Tengah",
+    "booth_number": "B03",
+    "map_x": 0.2527,
+    "map_y": 0.5224,
+    "image_path": "/menu-photos/P033-W034.jpg",
+    "verification_status": "VERIFIED",
+    "notes": "Belum ada pada daftar nama yang diketik. Batch 3: W021 \"Nasi Soto Medan\" digabung ke warung ini (dikonfirmasi pemilik proyek)."
+  },
+  {
+    "stall_id": "W035",
+    "stall_name": "Warung Nasi Panghegar",
+    "alternative_names": [
+      "Mi Ayam & Bakso Panghegar",
+      "Soto Ayam Panghegar",
+      "Warung Panghegar"
+    ],
+    "description": "Warung nasi prasmanan, mi ayam & bakso, dan soto ayam. Buka jam 07.00.",
+    "location_zone": "Baris Atas",
+    "booth_number": "A06",
+    "map_x": 0.3622,
+    "map_y": 0.0957,
+    "image_path": "/menu-photos/P046-W035.jpg",
+    "verification_status": "VERIFIED",
+    "notes": "Nama dilengkapi mengikuti denah. Menu Mi Ayam & Bakso, Soto Ayam, dan Ayam Goreng Sambel Dadakan dikonfirmasi milik warung ini."
+  },
+  {
+    "stall_id": "W036",
+    "stall_name": "Warung",
+    "alternative_names": [],
+    "description": "",
+    "location_zone": "Baris Atas",
+    "booth_number": "A12",
+    "map_x": 0.6849,
+    "map_y": 0.0957,
+    "image_path": null,
+    "verification_status": "NEEDS_VERIFICATION",
+    "notes": "Label pada denah hanya tertulis 'Warung'; nama resmi belum diketahui."
+  },
+  {
+    "stall_id": "W037",
+    "stall_name": "Yoshimitsu",
+    "alternative_names": [],
+    "description": "Japanese beef bowl. Nasi & ocha sepuasnya. Halal.",
+    "location_zone": "Baris Atas",
+    "booth_number": "A02",
+    "map_x": 0.1563,
+    "map_y": 0.0957,
+    "image_path": "/menu-photos/P050-W037.jpg",
+    "verification_status": "VERIFIED",
+    "notes": "Ditambahkan batch 2: terlihat di denah PDF dan punya foto menu, tidak ada di Excel v1."
+  }
+]
